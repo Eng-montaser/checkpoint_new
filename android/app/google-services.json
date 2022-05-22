@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "196157593955",
+    "project_id": "checkpoint-9f89e",
+    "storage_bucket": "checkpoint-9f89e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196157593955:android:6181566dcf1faba66d5b56",
+        "android_client_info": {
+          "package_name": "com.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196157593955-580ced6juj4l45a1icuq8i8rs0imdmup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barcode",
+            "certificate_hash": "76ac0770ba77af57a63ae00acd82c45f24f5ae1a"
+          }
+        },
+        {
+          "client_id": "196157593955-sf2sb0ap97173954jfmcfnm8tmntcckm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdX80pPzPMaoFmN0RQk0eiaT4par_QyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196157593955-sf2sb0ap97173954jfmcfnm8tmntcckm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196157593955:android:bfa0a2727e5148766d5b56",
+        "android_client_info": {
+          "package_name": "com.mycom.checkpoint.checkpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196157593955-sf2sb0ap97173954jfmcfnm8tmntcckm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdX80pPzPMaoFmN0RQk0eiaT4par_QyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196157593955-sf2sb0ap97173954jfmcfnm8tmntcckm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196157593955:android:c2119f4e4eae991e6d5b56",
+        "android_client_info": {
+          "package_name": "com.mycompany.checkpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196157593955-s4g83c4b359dtbcve5n7p2hveghkq4kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.checkpoint",
+            "certificate_hash": "76ac0770ba77af57a63ae00acd82c45f24f5ae1a"
+          }
+        },
+        {
+          "client_id": "196157593955-sf2sb0ap97173954jfmcfnm8tmntcckm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdX80pPzPMaoFmN0RQk0eiaT4par_QyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196157593955-sf2sb0ap97173954jfmcfnm8tmntcckm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
